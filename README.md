@@ -49,3 +49,10 @@ Sales analysts stop data gathering manually in order to save 20% of their busine
 Data Analysis Approach
 ![flow](https://github.com/ujjwalroystacks/sales_insights/assets/109037539/4ac54130-ab84-4156-abba-6eb89cd0a19d)
 
+Tableau Dashbpard Revenue Analysis
+![Tableau Dashbpard Revenue Analysis (1)](https://github.com/ujjwalroystacks/sales_insights/assets/109037539/64bbe5e3-5938-480b-a13c-8c794ea63e92)
+
+Tableau Dashbpard Profit Analysis
+![Tableau Dashbpard Profit Analysis](https://github.com/ujjwalroystacks/sales_insights/assets/109037539/bd667245-20ac-47b9-83bc-2f1d86799b2e)
+
+

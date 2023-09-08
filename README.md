@@ -45,10 +45,7 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 Dashboards uncovering sales order insights with latest data available.
 Sales team able to take better decision & prove 10% cost savings of total spend.
 Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
-Show total revenue in year 2020 in Chennai.
 
-SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";
+Data Analysis Approach
+![flow](https://github.com/ujjwalroystacks/sales_insights/assets/109037539/4ac54130-ab84-4156-abba-6eb89cd0a19d)
 
-Data Analysis Using Tableau
-Tableau Public Dashboards: Revenue & Profit Analysis tableau
-Creating Star Schema in Tableau
